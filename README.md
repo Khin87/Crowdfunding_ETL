@@ -10,5 +10,5 @@ Loaded CSV files into a database
 Ran queries to retrieve data and generate reports for stakeholders
 
 
-This classwork example performing ETL mini project skills on a large dataset. Python was used to extract and transform, SQL is used to load and query the data.
+This classwork ETL mini project skills on a large dataset. Python was used to extract and transform, SQL is used to load and query the data.
 
